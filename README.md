@@ -17,19 +17,3 @@ It simulates a coffee machine that can serve **espresso, latte, and cappuccino**
 4. Get your coffee and any change.
 5. Type `report` to see current resources.
 6. Type `off` to turn off the machine.
-
-## Example
-
-What would you like? (espresso/latte/cappuccino): latte
-
-Please insert coins.
-
-How many quarters?: 10
-
-How many dimes?: 0
-
-How many nickles?: 0
-
-How many pennies?: 0
-
-Here is your drink. Enjoy!
