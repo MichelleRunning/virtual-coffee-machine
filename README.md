@@ -32,6 +32,4 @@ How many nickles?: 0
 
 How many pennies?: 0
 
-Here is your change: $0.0
-
 Here is your drink. Enjoy!
